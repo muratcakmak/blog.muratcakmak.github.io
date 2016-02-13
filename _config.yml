@@ -18,7 +18,7 @@ bing_verification:
 
 # Optional features
 animated:             true
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
@@ -27,7 +27,7 @@ extended_fonts: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: muratcakmak
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
