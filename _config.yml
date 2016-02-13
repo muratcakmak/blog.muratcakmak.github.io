@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Oguzhan Murat Cakmak
+email:       oguzhanmc@gmail.com
+author:      Oguzhan Murat Cakmak
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://www.omuratcakmak.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
@@ -104,8 +104,6 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
+gems: [jekyll-paginate, jekyll-sitemap]
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
