@@ -2,7 +2,7 @@
 title:       Oguzhan Murat Cakmak
 email:       oguzhanmc@gmail.com
 author:      Oguzhan Murat Cakmak
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "iOS Developer in New York"
 baseurl:     ""
 url:         "http://www.omuratcakmak.com"
 date_format: "%b %-d, %Y"
@@ -20,7 +20,7 @@ bing_verification:
 animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -36,32 +36,32 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: "muratcakmak"
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
+twitter_username: "omuratcakmak"
+skype_username: "imzasizkitap"
 steam_nickname:
 google_plus_id:
-linkedin_username:
-angellist_username:
+linkedin_username: "omuratcakmak"
+angellist_username: "muratcakmak"
 medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 text:
   pagination:
