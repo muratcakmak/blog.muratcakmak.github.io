@@ -8,11 +8,11 @@ url:         "http://muratcakmak.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: google693c60393f454d11.html
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
+google_analytics: UA-73779531-1
+google_tag_manager: 
 # Bing services
 bing_verification:
 
