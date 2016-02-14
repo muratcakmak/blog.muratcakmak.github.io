@@ -1,20 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About OMC
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+After eleven years of military experience including four years of working as a naval architecture and marine engineer, I have decided to change my career path. As a result of the passion I have developed for computer engineering during my years in the Turkish Armed Forces, I was enrolled in Computer Engineering M.Sc program at Boğaziçi University. I hold an unconditional inspiration to become a part of a iOS team which works to solve humans problem via great apps.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+You can checkout [my Resume](https://docs.google.com/document/d/1L_3K6ZTPpLe8cG28FbtFV6zT19-1RRqxAfakLBBwT78/edit?usp=sharing)

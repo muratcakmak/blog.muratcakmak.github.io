@@ -5,5 +5,4 @@ source 'https://rubygems.org'
 # https://github.com/github/pages-gem
 gem 'github-pages'
 gem 'jekyll-paginate'
-gem 'jekyll-gist'
 gem 'jekyll-sitemap'

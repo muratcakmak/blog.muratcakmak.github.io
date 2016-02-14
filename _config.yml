@@ -44,7 +44,7 @@ skype_username: "imzasizkitap"
 steam_nickname:
 google_plus_id:
 linkedin_username: "omuratcakmak"
-angellist_username: "muratcakmak"
+angellist_username: "murat-cakmak"
 medium_id:
 bitcoin_url:
 paypal_url:
@@ -59,9 +59,9 @@ share_googleplus: false
 share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: true
+share_hackernews: false
 
 text:
   pagination:
@@ -98,6 +98,9 @@ text:
 
 # Build settings
 markdown:     kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
