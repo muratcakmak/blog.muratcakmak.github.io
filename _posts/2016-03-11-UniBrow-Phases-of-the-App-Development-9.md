@@ -44,9 +44,6 @@ This is the list of the source that I find on the Internet while learning iOS Ap
 
 
 ### Meetups
-- [Ray Wenderlich Video Tutorials](#)
-- [Lynda - Especially Sam Allardice’s Courses](#)
-- [Udemy](#)
 - iOS Side Projects
 - Cocoapods Weekly Meetup
 - iOS Soho
