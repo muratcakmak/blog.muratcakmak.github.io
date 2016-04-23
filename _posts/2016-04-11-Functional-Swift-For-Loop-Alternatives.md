@@ -6,7 +6,7 @@ summary:    Apple remove C-style for-loop, why don't we also remove Cpp-style fo
 categories: functional
 ---
 
-As all knows, Apple decided to remove C-style for-loop from Swift. Most important reasons are it is too old and not intuitive for the new programmers. 
+As we all know, Apple decided to remove C-style for-loop from Swift. The most important reasons are that it is too old and not intuitive for the new programmers. 
 
 Since the programming languages is progressing, there is no explanation for not exploiting functional programming stuff in Swift. Instead of using Cpp-style for-in loop, we can do for-loop more Swifty, functional and better.
 
@@ -18,7 +18,7 @@ var str = "Hello, playground"
 var arr = Array(str.characters)
 {% endhighlight %}
 
-I have written all code in playground. And I have also used their example.
+I wrote all of this code in playgrounds. I have also used their example.
 
 {% highlight swift %}
 //Looping n times
@@ -32,7 +32,7 @@ for var i = 0, i < 10; i += 1{
 It prints from 0 to 10 exclusively to the console
 */
 {% endhighlight %}
-Isn't is more intuitive!
+Isn't it more intuitive!
 
 
 {% highlight swift %}
@@ -68,7 +68,7 @@ H e l l o ,   p l a y g r o u n d
 {% endhighlight %}
 
 {% highlight swift %}
-//Reverse looing through array values
+//Reverse looping through array values
 arr.reverse().forEach({char in print(char, terminator: " ")})
 /*
 d n u o r g y a l p   , o l l e H 
