@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Functional Swift For-Loop Alternatives
+title:      One Step Further; Swift Alternatives for Cpp-style for-in loop
 date:       2016-04-11
-summary:    After C-style for-loop is deprecated and will be remove soon, I am looking for more Swifty for-loop
+summary:    Apple remove C-style for-loop, why don't we also remove Cpp-style for-in loop?
 categories: functional
 ---
 
 As all knows, Apple decided to remove C-style for-loop from Swift. Most important reasons are it is too old and not intuitive for the new programmers. 
 
-Since the programming languages is progressing, there is no explanation for not exploiting functional programming stuff in Swift. Instead of using Cpp-style for-in loop, we can do for-loop more Swifty and better.
+Since the programming languages is progressing, there is no explanation for not exploiting functional programming stuff in Swift. Instead of using Cpp-style for-in loop, we can do for-loop more Swifty, functional and better.
 
 
 {% highlight swift %}
@@ -122,3 +122,4 @@ Toronto Pearson
 */
 {% endhighlight %}
 
+Happy coding!
