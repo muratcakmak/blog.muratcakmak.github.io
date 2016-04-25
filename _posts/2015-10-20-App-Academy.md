@@ -16,8 +16,8 @@ After my submission, they sent me materials for second test immidiately. I was s
 
 I just dived in to the second coding challenge. It was challenging because the difficulty advanced one step more. But I was prepared for that. I took the second coding challenge, and one of the three problems was really difficult to grasp. I solved the other two problem smoothly, but on the third one, I spent approximately 45 minutes. After submission, they sent me a mail to arrange a Skype interview with one of the teachers of app academy san francisco.
 
-It was my first time to getting interview, and it would be live/peer coding. Verbalising thought processing helps me a lot, read this
-http://www.codecampguide.com/blog/skype-interview-tip-verbalize-your-thought-process. As far as I learned, there are three main things you need to consider:
+It was my first time to getting interview, and it would be live/peer coding. Verbalising thought processing helps me a lot, you can [read this](http://www.codecampguide.com/blog/skype-interview-tip-verbalize-your-thought-process). As far as I learned, there are three main things you need to consider:
+
 1. What your function takes as a parameter, 
 2. What it returns and 
 3. Explaining the code on each line meticulously. 
