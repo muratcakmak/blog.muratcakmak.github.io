@@ -28,7 +28,7 @@ As an example,
 cd Desktop/Folder
 {% endhighlight %}
 
-To run the script, we need to have required permission to execute the file. 
+We need to have required permission to execute the file. 
 {% highlight shell %}
 chmod +x hello-world.swift
 {% endhighlight %}
