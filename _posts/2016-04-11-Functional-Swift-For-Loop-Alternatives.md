@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      One Step Further &#58 Swift Alternatives for Cpp-style for-in loop
+title:      One Step Further&#58 Swift Alternatives for Cpp-style for-in loop
 date:       2016-04-11
 summary:    Apple remove C-style for-loop, why don't we also remove Cpp-style for-in loop?
 categories: functional
