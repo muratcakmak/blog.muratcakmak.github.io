@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Swift Scripting
+title:      A Gentle Introduction to Swift Scripting
 date:       2016-04-30 08:31:19
 summary:    Why don't you give a try to run Swifty scripts in terminal!
 categories: swift
